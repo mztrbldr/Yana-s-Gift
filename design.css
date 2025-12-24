@@ -58,7 +58,7 @@ body {
 
 .home h1 {
   font-family: "Pacifico", cursive;
-  font-size: 5rem;
+  font-size: 3.5rem;
   color: var(--hot-pink);
   text-shadow: 0 6px 15px rgba(255, 127, 191, 0.5);
   animation: float 3s ease-in-out infinite;
